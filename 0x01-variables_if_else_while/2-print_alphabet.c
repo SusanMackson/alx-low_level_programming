@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- * main - prints all possible different combinations of two digits
+ * main - prints all alphabets
  *
- * Return: ALways 0 (Success)
+ * Return: always 0
  */
 
 int main(void)
-
 {
 	char i;
 
@@ -14,3 +13,4 @@ int main(void)
 		putchar(i);
 	putchar('\n');
 	return (0);
+}
