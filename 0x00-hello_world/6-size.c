@@ -3,7 +3,7 @@
 /**
  * main -the program that prints the size of various computer types
  *
- * return: always 0
+ * Return: always 0
  */
 
 int main(void)
