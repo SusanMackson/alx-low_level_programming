@@ -9,7 +9,6 @@
 int main(void)
 
 {
-	
 	int s, e;
 
 	for (s = 48; s <= 56; s++)
