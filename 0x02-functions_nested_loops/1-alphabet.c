@@ -1,7 +1,6 @@
 #include "main.h"
-/*
- * print_alphabet - function thsat prints alphabet in lower case
- * Return: always 0;
+/**
+ *print_alphabet - print alphabet in lower case
  */
 
 void print_alphabet(void)
